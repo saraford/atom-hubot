@@ -4,25 +4,28 @@
 // for a full listing of what's available.
 @import "ui-variables";
 
+#root {
+  width: 400px;
+}
+
 #resize-handle {
-  background-color: green;
-  width: 10px;
+  width: 5px;
   height: 100%;
   position: absolute;
   top: 0px;
-  cursor: col-resize;
+  // cursor: col-resize;
 }
 
 h1 {
   top: 10px;
   color: rgb(60, 100, 195);
   font-weight: 600;
+  margin-left: 10px;
 }
 
 #hubot-output {
   background-color: white;
-  width: 300px;
-  padding-right: 15px;
+  padding-right: 18px;
   text-align: left;
   flex-grow: 1;
   overflow: scroll;
@@ -33,26 +36,27 @@ h1 {
   top:50px;
   left:5px;
   right:5px;
-  height:70%;
+  height:78%;
   position:absolute;
 }
 
 #bottom-section {
   bottom: 0px;
-  left: 0px;
+  left: 5px;
   background-color: rgb(245, 245, 245);
   width: 100%;
   position: absolute;
-  height: 22%;
+  height: 15%;
 }
 
 #hint {
   text-align: left;
-  font-style: italic;
-  opacity: 0.8;
   margin-left: 20px;
   margin-top: 10px;
-  color: blue;
+  margin-left: 20px;
+  color: black;
+  font-size: small;
+
 }
 
 #input-area {
@@ -86,6 +90,16 @@ h1 {
   display: none;
   left: 10px;
   color: red;
+}
+
+#script-location {
+  margin-top: 10px;
+  margin-left: 20px;
+  font-size: small;
+}
+
+#scripts-link {
+  color:blue;
 }
 
 .output-row {
