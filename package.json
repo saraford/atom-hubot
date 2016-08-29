@@ -15,6 +15,7 @@
   "dependencies": {
     "coffee-script": "^1.10.0",
     "hubot": "^2.19.0",
+    "hubot-pugme": "^0.1.0",
     "hubot-rules": "^0.1.1",
     "jquery": "^3.1.0"
   }
