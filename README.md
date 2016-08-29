@@ -8,8 +8,12 @@ Test out your hubot scripts within Atom!
 
 1. clone this repo into your .atom/packages directory
 2. npm install
-3. download https://github.com/saraford/hubot-electron-adapter and move hubot-sample into the node_modules. 
 
 ## Usage
 
 From atom, use the default keyboard shortcut Ctrl-Option-O or Packages - Hubot - Toggle
+
+## Misc
+
+- This uses the hubot-electron adapter located at https://github.com/saraford/hubot-electron
+- By default, the package is watching for a file save to play.coffee. I included a test/test.coffee file to test changing the watched file.
