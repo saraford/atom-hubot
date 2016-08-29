@@ -1,5 +1,6 @@
-# hubot package
+# Atom-Hubot
 
-A short description of your package.
+Test out your hubot scripts within Atom!
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![Atom Hubot Package demo](https://cloud.githubusercontent.com/assets/11529908/18057791/4b381000-6dc6-11e6-9a82-154918e5ec3b.gif)
+
