@@ -17,6 +17,7 @@
     "hubot": "^2.19.0",
     "hubot-pugme": "^0.1.0",
     "hubot-rules": "^0.1.1",
-    "jquery": "^3.1.0"
+    "jquery": "^3.1.0",
+    "hubot-electron": "git://github.com/saraford/hubot-electron.git#dac1fcc"
   }
 }
