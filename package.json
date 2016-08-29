@@ -2,12 +2,12 @@
   "name": "atomhubot",
   "main": "./lib/hubot",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Develop your hubot scripts in atom",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "hubot:toggle"
   },
-  "repository": "https://github.com/atom/hubot",
+  "repository": "https://github.com/saraford/atom-hubot",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
