@@ -2,3 +2,4 @@
 npm-debug.log
 node_modules
 photon-0.1.2-alpha/
+lib/hubot.log
