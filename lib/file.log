@@ -1,0 +1,11 @@
+[Sun Sep 04 2016 12:17:05 GMT-0700 (PDT)] DEBUG Loading scripts from /Users/saraford/.atom/packages/atom-hubot/node_modules/hubot-rules/src
+[Sun Sep 04 2016 12:17:05 GMT-0700 (PDT)] DEBUG Parsing help for /Users/saraford/.atom/packages/atom-hubot/node_modules/hubot-rules/src/rules.coffee
+[Sun Sep 04 2016 12:17:05 GMT-0700 (PDT)] DEBUG Loading scripts from /Users/saraford/.atom/packages/atom-hubot/node_modules/hubot-pugme/src
+[Sun Sep 04 2016 12:17:05 GMT-0700 (PDT)] DEBUG Parsing help for /Users/saraford/.atom/packages/atom-hubot/node_modules/hubot-pugme/src/pugme.coffee
+[Sun Sep 04 2016 12:17:05 GMT-0700 (PDT)] DEBUG Loading scripts from /Users/saraford/.atom/packages/atom-hubot/scripts
+[Sun Sep 04 2016 12:17:05 GMT-0700 (PDT)] DEBUG Parsing help for /Users/saraford/.atom/packages/atom-hubot/scripts/default.coffee
+[Sun Sep 04 2016 12:17:05 GMT-0700 (PDT)] INFO /Users/saraford/.atom/packages/atom-hubot/scripts/default.coffee is using deprecated documentation syntax
+[Sun Sep 04 2016 12:17:05 GMT-0700 (PDT)] DEBUG Loading scripts from /Users/saraford/.atom/packages/atom-hubot
+[Sun Sep 04 2016 12:17:05 GMT-0700 (PDT)] WARNING Expected /Users/saraford/.atom/packages/atom-hubot/package to assign a function to module.exports, got object
+[Sun Sep 04 2016 12:17:05 GMT-0700 (PDT)] DEBUG Parsing help for /Users/saraford/.atom/packages/atom-hubot/play.coffee
+[Sun Sep 04 2016 12:17:05 GMT-0700 (PDT)] INFO /Users/saraford/.atom/packages/atom-hubot/play.coffee is using deprecated documentation syntax
