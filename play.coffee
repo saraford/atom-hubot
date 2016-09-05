@@ -1,5 +1,5 @@
 module.exports = (robot) ->
-  robot.respond /thundercats$/i, (msg) ->
+  robot.respond /thundercats$/i, (msg)  ->
     msg.send "HOOOO!"
 
   robot.respond /tell me a joke$/i, (msg) ->
