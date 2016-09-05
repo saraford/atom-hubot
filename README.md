@@ -4,9 +4,15 @@ Test out your hubot scripts within Atom!
 
 ![Atom Hubot Package demo](https://cloud.githubusercontent.com/assets/11529908/18057791/4b381000-6dc6-11e6-9a82-154918e5ec3b.gif)
 
-# What's new - v0.2.1
+# What's new 
 
-Fixed bugs and added features from usability feedback:
+### v0.3.0 
+
+1. Fixed [#5 - Hubot crashes Atom for certain syntax errors](https://github.com/saraford/atom-hubot/issues/5)
+2. Removed ability to change which script file hubot watches. See [#7 - Allow user to specify which file Hubot should watch](Allow user to specify which file Hubot should watch)
+
+
+### v0.2.1
 
 1. Fixed [#1 - Up / Down arrows should cycle through command history](https://github.com/saraford/atom-hubot/issues/1)
 2. Fixed [#2 - Ability to resize the hubot pane](https://github.com/saraford/atom-hubot/issues/2)
