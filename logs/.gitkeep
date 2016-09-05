@@ -1,0 +1,3 @@
+this file only exists to commit the logs directory to git
+this logs dir contains for the .hubot_history and hubot.log files,
+which are included in the .gitignore
